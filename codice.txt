@@ -1,0 +1,4 @@
+,>++++++[<-------->-]			input e conversione a numero
+,>++++++[<-------->-]<			input e conversione a numero
+[>+<-]<[>>+<<-]>				somma
+>>++++++[<++++++++>-]<.			conversione a char

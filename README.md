@@ -3,7 +3,7 @@ A basic compiler for the brainfuck language.
 
 Write your brainfuck code in "codice.txt" and open the exe file, which will interpreter the code and print out the results.
 
-WHAT IS BRAINFUCK?
+WHAT IS BRAINFUCK?\n
 Brainfuck is an esoteric programming language which use only 8 characters.
 +- Add and subtract 1 in a cell
 <> Move by 1 cell in the right or in the left

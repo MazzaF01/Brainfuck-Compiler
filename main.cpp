@@ -10,7 +10,7 @@ struct node {
 
 int main(int argc, char** argv) {
 	node* cn = new node; //current node
-	std::ifstream fcode("codice.txt");
+	std::ifstream fcode("code.txt");
 	std::string code = "";
 	std::string symbols = ",.+-<>[]";
 	/**Convertion in a string that contains only the accepted symbols**/

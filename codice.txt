@@ -1,4 +1,5 @@
-,>++++++[<-------->-]			input e conversione a numero
-,>++++++[<-------->-]<			input e conversione a numero
-[>+<-]<[>>+<<-]>				somma
->>++++++[<++++++++>-]<.			conversione a char
+,>++++++[<-------->-]			input and char to int conversion
+,>++++++[<-------->-]<			input and char to int conversion
+[>+<-]<[>>+<<-]>				sum
+>>++++++[<++++++++>-]<			int to char conversion
+.                       output
